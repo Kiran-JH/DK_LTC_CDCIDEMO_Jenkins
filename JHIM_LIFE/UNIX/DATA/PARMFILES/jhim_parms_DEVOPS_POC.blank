@@ -1,0 +1,31 @@
+#################################################################################################
+# PARAMETERS For JHIM
+# CREATE DATE: 6/28/2014
+# CREATE USER: pannemra
+# LAST UPDATE DATE:7/11/2014 
+#################################################################################################
+//
+$$BATCHIDJHIM=
+$$CYCLEDATEJHIM=
+$$LASTUPDTJHIM=
+// 
+#################################################################################################
+## GLOBAL PARAMS
+#################################################################################################
+//
+[Global]
+$PMRootDir=/DATA_INF/JHIM/INFORMATICA
+$PMBadFileDir=$PMRootDir/BADFILES
+$PMCacheDir=$PMRootDir/CACHE
+$PMExtProcDir=$PMRootDir/EXTPROC
+$PMSessionLogDir=$PMRootDir/SESSLOGS
+$PMSourceFileDir=$PMRootDir/SRCFILES
+$PMTargetFileDir=$PMRootDir/TGTFILES
+$PMTempDir=$PMRootDir/TEMP
+$PMWorkflowLogDir=$PMRootDir/WKFLOWLOGS
+$PMLookupFileDir=$PMRootDir/LOOKUPS
+//
+//
+#################################################################################################
+## END OF PARAMETER FILE
+#################################################################################################

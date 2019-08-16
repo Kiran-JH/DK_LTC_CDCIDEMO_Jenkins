@@ -1,0 +1,15 @@
+*****************************************************************************************
+*	This is a configuration file for Deploymemnt of SSIS and SQL file.	 	*
+*	Please donot delete or modify any tags which started and ended with #.		*
+*	Please add/modify/delete files between the Start and end tag for deployment.	*
+*****************************************************************************************
+
+#JHIM_NLZ_DATABASE_DDLDMLSCRIPT_START#
+\DDL\JHIM.VLT.TEST_DEVOPS_POC.SQL
+#JHIM_NLZ_DATABASE_DDLDMLSCRIPT_END#
+
+#JHIM_NLZ_DATABASE_FUNCTIONS_START#
+#JHIM_NLZ_DATABASE_FUNCTIONS_END#
+
+#JHIM_NLZ_DATABASE_STOREDPROCS_START#
+#JHIM_NLZ_DATABASE_STOREDPROCS_END#

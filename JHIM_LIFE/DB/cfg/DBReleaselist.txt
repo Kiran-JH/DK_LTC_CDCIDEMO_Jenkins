@@ -1,0 +1,31 @@
+*****************************************************************************************
+*	This is a configuration file for Deploymemnt of SSIS and SQL file.	 	*
+*	Please donot delete or modify any tags which started and ended with #.		*
+*	Please add/modify/delete files between the Start and end tag for deployment.
+* Making change in the original dev branch
+*
+*****************************************************************************************
+
+#SSIS_FILES_START#
+#SSIS_FILES_END#
+
+
+#JHIM_CDL_DATABASE_DDLDMLSCRIPT_START#
+#JHIM_CDL_DATABASE_DDLDMLSCRIPT_END#
+
+#JHIM_CDL_DATABASE_FUNCTIONS_START#
+#JHIM_CDL_DATABASE_FUNCTIONS_END#
+
+#JHIM_CDL_DATABASE_STOREDPROCS_START#
+#JHIM_CDL_DATABASE_STOREDPROCS_END#
+
+
+#JHIM_NLZ_DATABASE_DDLDMLSCRIPT_START#
+\DML\JHIM.VLT.AY_HUB_AGENT_NUMBER_DATAZAP.SQL
+#JHIM_NLZ_DATABASE_DDLDMLSCRIPT_END#
+
+#JHIM_NLZ_DATABASE_FUNCTIONS_START#
+#JHIM_NLZ_DATABASE_FUNCTIONS_END#
+
+#JHIM_NLZ_DATABASE_STOREDPROCS_START#
+#JHIM_NLZ_DATABASE_STOREDPROCS_END#
