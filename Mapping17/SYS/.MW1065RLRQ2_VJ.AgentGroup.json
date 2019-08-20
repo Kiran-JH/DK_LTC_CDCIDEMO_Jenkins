@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "0bcWgyYJeF1jYhMhhK1pAO",
+      "objectName": "MW1065RLRQ2_VJ",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0106X52500000000000C"
+         }
+      }
+   }
+]
