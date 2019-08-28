@@ -1,0 +1,53 @@
+[
+   {
+      "objectGuid": "09STZYZdd4glhsARB2d82u",
+      "objectName": "Sample Salesforce Connection",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "fm5zDCfxvkSiZ4b1B6bMaH"
+         ],
+         "repoInfo": {
+            "repoHandle": "0106X50B000000000013"
+         }
+      }
+   },
+   {
+      "objectGuid": "fm5zDCfxvkSiZ4b1B6bMaH",
+      "objectName": "Informatica Cloud Hosted Agent",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "025000000000002"
+         }
+      }
+   }
+]
