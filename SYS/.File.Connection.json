@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "aAKTQRSaAX1lUB6cl5gxyv",
+      "objectName": "File",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "48QEGBOMqZDckVbxEg8ISR"
+         ],
+         "repoInfo": {
+            "repoHandle": "0106X50B00000000001R"
+         }
+      }
+   },
+   {
+      "objectGuid": "48QEGBOMqZDckVbxEg8ISR",
+      "objectName": "VBX00929KK",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0106X52500000000000R"
+         }
+      }
+   }
+]
