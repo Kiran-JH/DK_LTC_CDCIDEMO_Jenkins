@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "lL0BNBlyF6ekNkiWWUAKKW",
+      "objectName": "FlatFileTest",
+      "objectType": "DSS",
+      "path": "/Explore/Default",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "2k4UoPA3wAigHbHNrSB4UI"
+         ],
+         "repoInfo": {
+            "repoHandle": "0106X50I00000000000S"
+         }
+      }
+   },
+   {
+      "objectGuid": "2k4UoPA3wAigHbHNrSB4UI",
+      "objectName": "File_Dir_Local",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0106X50B00000000001Q"
+         }
+      }
+   }
+]
